@@ -4,7 +4,7 @@ This is an old version of Geometry Dash, including a save file. Thanks https://w
 ## Preparation
 First you need to download an Android emulator. I recommend you do download [LDplayer](https://www.ldplayer.net/), but any Android emulator that has root access and a shared folder should work. After you've installed an emulator, you want to make sure you've enabled Root from the settings of the emulator, for LDplayer you can do this by going into the settings of the emulator and then going to "Other Settings", and then enable "Root Access". If you use an other emulator, you should figure this out on your own.
 ## Titanium Backup
-Next, you need to download Titanium Backup. You can do this by downloading the [latest release](https://github.com/ShakeAndWiggle20/old-geometry-dash-version/releases/latest), unzipping the zip, and dragging the TitaniumBackup.apk to your emulator screen. It should install automatically.
+Next, you need to download Titanium Backup. You can do this by downloading the [latest release](https://github.com/ShakeAndWiggle20/old-geometry-dash-version/releases/latest), unzipping the zip, and dragging the "Titanium Backup (root needed)_8.4.0.2_APKPure.apk" to your emulator screen. It should install automatically.
 ## Getting the files on your emulator
 Then, you need to get the backup file on your emulator. You can do this by clicking on the folder icon in your emulator (make sure to maximize the window to see it), and then a folder will pop up on your screen. This is the Shared Folder, which is also available on the emulator. Open a separate window to get to your Downloads folder, and drag the "com.robtopx.geometryjump-20130908-212943.TiBkp" file from the folder you just unzipped to the Shared Folder.
 ## Loading the Backup
